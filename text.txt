@@ -1,1 +1,3 @@
 This is a test of using Git.
+
+new command line as a revise in the second time.
